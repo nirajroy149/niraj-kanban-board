@@ -1,0 +1,34 @@
+.add_conatainer{
+    /* border: 1px solid red; */
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #607D88;
+    background-color: white;
+    margin: 5px 4px;
+    font-weight: bold;
+    min-width: 18vw;
+    padding: 10px;
+}
+input{
+     outline:none;
+    padding: 6px;
+    line-height: 28px;
+    font-size: 18px;
+    caret-color: grey;
+    margin: 5px auto;
+    width: 100%;
+}
+.content_area{
+    resize: none;
+    width: 100%;
+    padding: 6px;
+    caret-color: grey;
+    margin: 5px auto;
+    border: 1px solid grey;
+    outline: none;
+}
+.add_conatainer_btn{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}

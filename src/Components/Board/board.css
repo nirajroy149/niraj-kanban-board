@@ -1,0 +1,68 @@
+.whole_board_container {
+  margin: 5px;
+  min-width: 300px;
+  padding: 20px 14px;
+  border-radius: 6px;
+  flex-basis: 300px;
+  background-color: rgb(255 255 255);
+}
+@import url("https://fonts.googleapis.com/css2?family=Arbutus+Slab&display=swap");
+.board_title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Arbutus Slab", serif;
+  padding-bottom: 10px;
+  color: #607d8b;
+  font-size: 20px;
+  margin-left: 10px;
+  position: relative;
+}
+.board_title span {
+  font-size: 16px;
+}
+.addButton {
+  background-color: red;
+}
+.cards_container {
+  padding: 3px;
+  background-color: black;
+  /* height: 465px; */
+  /* height: 100%; */
+  background-color: #d6d6d678;
+  /* overflow-y: scroll; */
+  /* padding-bottom: 200px; */
+  display: flex;
+  flex-direction: column;
+}
+
+.cards_container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.cards_container::-webkit-scrollbar-track {
+  background: rgb(228, 227, 227);
+}
+
+.cards_container::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.cards_container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.btn_board_container {
+  position: absolute;
+  right: 4px;
+  top: 13px;
+  /* left: 7px; */
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+  background-color: white;
+  padding: 6px;
+  z-index: 1;
+  box-shadow: 0px 0px 6px 1px;
+  width: 196px;
+}

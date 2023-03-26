@@ -1,0 +1,15 @@
+.head_container{
+    padding: 14px 40px;
+    /* color: white; */
+    background-color: rgb(255 255 255);
+    border-bottom: 0.5px solid rgb(175, 175, 175);
+    /* margin-bottom: 10px; */
+    /* overflow-x: hidden; */
+    position: sticky;
+    top: 0;
+    z-index: 5;
+   
+}
+.head_container_heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}

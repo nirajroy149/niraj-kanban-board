@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.app_container{
+    min-height: 100vh;
+    position: sticky;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 1px 20px rgba(56, 40, 40, 0.05);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+.board_container{
+    display: flex;
+    width: auto;
+    height: 100%;
+    overflow-x: auto;
+    padding: 20px 30px;
+    background-color: rgb(55 68 80 / 17%);
+}

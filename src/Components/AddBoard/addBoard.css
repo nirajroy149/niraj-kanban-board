@@ -1,0 +1,25 @@
+
+.board-add-button:hover{
+    background-color: white;
+}
+.board-add-button i{
+    margin-right: 10px;
+}
+
+.add_form{
+    display: flex;
+    flex-direction: column;
+}
+.board_add_btns{
+    display: flex;
+    justify-content: space-between;
+}
+.add_board{
+    position: relative;
+    top: 4px;
+    padding: 10px;
+    min-width: 270px;
+    margin-left: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
