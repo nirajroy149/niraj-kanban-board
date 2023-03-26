@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ac4197b2.css",
-    "main.js": "/react-gh-pages/static/js/main.be91abee.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ac4197b2.css.map": "/react-gh-pages/static/css/main.ac4197b2.css.map",
-    "main.be91abee.js.map": "/react-gh-pages/static/js/main.be91abee.js.map"
+    "main.css": "/niraj-kanban-board/static/css/main.ac4197b2.css",
+    "main.js": "/niraj-kanban-board/static/js/main.be91abee.js",
+    "index.html": "/niraj-kanban-board/index.html",
+    "main.ac4197b2.css.map": "/niraj-kanban-board/static/css/main.ac4197b2.css.map",
+    "main.be91abee.js.map": "/niraj-kanban-board/static/js/main.be91abee.js.map"
   },
   "entrypoints": [
     "static/css/main.ac4197b2.css",
